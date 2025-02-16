@@ -1,12 +1,11 @@
-Here's an enhanced, well-formatted README.md:
-
-
 # DiscordAutoForumBot 🤖📸
+
+This code contains AI GENERATED CONTENT
 
 Automate image posting to Discord forum channels with browser automation. Perfect for bulk uploads while maintaining "human-like" interaction patterns.
 
-![Python Version](https://img.shields.io/badge/python-3.x-blue?logo=python)
-![Selenium](https://img.shields.io/badge/selenium-4.x-green?logo=selenium)
+[![Python Version](https://img.shields.io/badge/python-3.x-blue?logo=python)](https://www.python.org/downloads/)
+[![Selenium](https://img.shields.io/badge/selenium-4.x-green?logo=selenium)](https://pypi.org/project/selenium/)
 
 ## Features ✨
 
